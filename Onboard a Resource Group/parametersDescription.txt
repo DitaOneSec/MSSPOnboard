@@ -1,0 +1,6 @@
+
+Groups vs Roles Descriptions:
+
+	AdminsLightHouse / Contributor
+	AdminsLightHouse / Managed Services Registration assignment Delete Role
+	AgentsLightHouse / Reader
