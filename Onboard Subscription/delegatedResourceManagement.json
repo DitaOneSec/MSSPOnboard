@@ -4,14 +4,14 @@
     "parameters": {
         "mspOfferName": {
             "type": "string",
-			"defaultValue": "Secnesys Sentinel Managed Services",
+	    "defaultValue": "Secnesys Sentinel Managed Services",
             "metadata": {
                 "description": "Specify the name of the offer from the Managed Service Provider"
             }
         },
         "mspOfferDescription": {
             "type": "string",
-			"defaultValue": "Provides a managed service capability for Microsoft Sentinel by Secnesys",
+   	    "defaultValue": "Provides a managed service capability for Microsoft Sentinel by Secnesys",
             "metadata": {
                 "description": "Name of the Managed Service Provider offering"
             }
@@ -25,7 +25,7 @@
         },
         "authorizations": {
             "type": "array",
-			"defaultValue": [
+	    "defaultValue": [
                 {
 					"principalId": "c5ee3e11-1dc2-4195-a7c3-817310b4fc36",
                     "principalIdDisplayName": "Tier 1 Support (Contribuitor)",
