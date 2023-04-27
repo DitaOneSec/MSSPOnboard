@@ -3,13 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "mspOfferName": {
-            "value": "Secnesys - Azure Managed Services"
+            "value": "Onesec - Azure Managed Services"
         },
         "rgName": {
             "value": "test"
         },
         "mspOfferDescription": {
-            "value": "En Secnesys estamos comprometidos a brindar un servicio de excelencia a nuestros clientes.<BR>Nuestro monitoreo constante y el conocimiento a detalle de la operación de nuestros clientes hace posible la implementación de las mejores recomendaciones operativas, así como posibles ahorros en costos de infraestructura."
+            "value": "En Onesec estamos comprometidos a brindar un servicio de excelencia a nuestros clientes.<BR>Nuestro monitoreo constante y el conocimiento a detalle de la operación de nuestros clientes hace posible la implementación de las mejores recomendaciones operativas, así como posibles ahorros en costos de infraestructura."
         },
         "managedByTenantId": {
             "value": "b9fafec0-01e1-4dcc-ab3b-efdd85a37bf5"
