@@ -7,14 +7,14 @@
             "metadata": {
                 "description": "Specify a unique name for your offer"
             },
-            "defaultValue": "Secnesys Sentinel Managed Services"
+            "defaultValue": "ONESEC Sentinel Managed Services"
         },
         "mspOfferDescription": {
             "type": "string",
             "metadata": {
                 "description": "Name of the Managed Service Provider offering"
             },
-            "defaultValue": "Provides a managed service capability for Microsoft Sentinel by Secnesys"
+            "defaultValue": "Provides a managed service capability for Microsoft Sentinel by ONESEC"
         },
         "managedByTenantId": {
             "type": "string",
