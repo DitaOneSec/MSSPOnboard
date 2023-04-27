@@ -4,14 +4,14 @@
     "parameters": {
         "mspOfferName": {
             "type": "string",
-			"defaultValue": "Secnesys Sentinel Managed Services",
+			"defaultValue": "Onesec Sentinel Managed Services",
             "metadata": {
                 "description": "Specify the name of the offer from the Managed Service Provider"
             }
         },
         "mspOfferDescription": {
             "type": "string",
-			"defaultValue": "Provides a managed service capability for Microsoft Sentinel by Secnesys",
+			"defaultValue": "Provides a managed service capability for Microsoft Sentinel by Onesec",
             "metadata": {
                 "description": "Name of the Managed Service Provider offering"
             }
