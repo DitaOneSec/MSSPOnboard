@@ -1,4 +1,4 @@
-# Onboard Microsoft Sentinel Secnesys MSSP
+# Onboard Microsoft Sentinel Onesec MSSP
 
 |Deployment Type | Button |
 |----------------|--------|
