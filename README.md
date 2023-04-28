@@ -1,55 +1,11 @@
 # Onboard Microsoft Sentinel Onesec MSSP
 
-<table>
-<thead>
-<tr>
-  <th>Onesec Group</th>
-  <th>Role</th>
-  <th>Delete the registration assignment assigned to their tenant (*)</th>
-  <th>Create and run Playbooks</th>
-  <th>Create automation Rules to run Playbooks</th>
-  <th>Can run Playbook Manually</th>
-  <th>Create and edit workbooks, analytic rules and other Azure Sentinel Resources</th>
-  <th>Manage incidents (dismiss, assign etc)</th>
-  <th>View data, incidents, dashboards and other Azure Sentinel resources</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-  <td>MDR&nbsp;T1&nbsp;-&nbsp;Analyst</td>
-  <td>Microsoft&nbsp;Sentinel&nbsp;Reader&nbsp;+&nbsp;Microsoft&nbsp;Sentinel&nbsp;Playbook&nbsp;Operator</td>
-  <td></td>
-  <td>      X</td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td style="text-align:center">X</td>
-</tr>
-<tr>
-  <td>MDR&nbsp;T2&nbsp;-&nbsp;Analyst</td>
-  <td>Microsoft&nbsp;Sentinel&nbsp;Responder&nbsp;+&nbsp;Microsoft&nbsp;Sentinel&nbsp;Automation&nbsp;Contributor</td>
-  <td></td>
-  <td<center>X</center></td>
-  <td></td>
-  <td style="text-align:center">X</td>
-  <td></td>
-  <td></td>
-  <td style="text-align:center">X</td>
-</tr>
-<tr>
-  <td>MDR&nbsp;T3&nbsp;-&nbsp;Threat&nbsp;Hunter</td>
-  <td>Microsoft&nbsp;Sentinel&nbsp;Contributor&nbsp;+&nbsp;Logic&nbsp;App&nbsp;Contributor</td>
-  <td<center>X</center></td>
-  <td style="text-align:center">X</td>
-  <td style="text-align:center">X</td>
-  <td style="text-align:center">X</td>
-  <td style="text-align:center">X</td>
-  <td style="text-align:center">X</td>
-  <td style="text-align:center">X</td>
-</tr>
-</tbody>
-</table>
+| Onesec Group         | Role | Delete the registration assignment assigned to their tenant (*) | Create and run Playbooks | Create automation Rules to run Playbooks | Can run Playbook Manually | Create and edit workbooks, analytic rules and other Azure Sentinel Resources | Manage incidents (dismiss, assign etc) | View data, incidents, dashboards and other Azure Sentinel resources |
+|----------------------|------|----------------------------------------------------------------|--------------------------|------------------------------------------|--------------------------|--------------------------------------------------------------------|-------------------------------------|------------------------------------------------------------|
+| MDR&nbsp;T1&nbsp;-&nbsp;Analyst     | Microsoft Sentinel Reader + Microsoft Sentinel Playbook Operator | | &emsp;&emsp;&emsp;X&emsp;&emsp;&emsp; | | | | | &emsp;&emsp;&emsp;X&emsp;&emsp;&emsp; |
+| MDR&nbsp;T2&nbsp;-&nbsp;Analyst     | Microsoft Sentinel Responder + Microsoft Sentinel Automation Contributor | | &emsp;&emsp;&emsp;X&emsp;&emsp;&emsp; | | &emsp;&emsp;&emsp;X&emsp;&emsp;&emsp; | | | &emsp;&emsp;&emsp;X&emsp;&emsp;&emsp; |
+| MDR&nbsp;T3&nbsp;-&nbsp;Threat Hunter | Microsoft Sentinel Contributor + Logic App Contributor | &emsp;&emsp;&emsp;X&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;X&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;X&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;X&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;X&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;X&emsp;&emsp;&emsp; | &emsp;&emsp;&emsp;X&emsp;&emsp;&emsp; |
+
 
 
 
