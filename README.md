@@ -2,9 +2,9 @@
 
 | Onesec Group         | Role | Delete the registration assignment assigned to their tenant (*) | Create and run Playbooks | Create automation Rules to run Playbooks | Can run Playbook Manually | Create and edit workbooks, analytic rules and other Azure Sentinel Resources | Manage incidents (dismiss, assign etc) | View data, incidents, dashboards and other Azure Sentinel resources |
 |----------------------|------|----------------------------------------------------------------|--------------------------|------------------------------------------|--------------------------|--------------------------------------------------------------------|-------------------------------------|------------------------------------------------------------|
-| MDR T1&nbsp;-&nbsp;Analyst     | Microsoft Sentinel Reader + Microsoft Sentinel Playbook Operator | | X | | | | | X |
-| MDR T2 - Analyst     | Microsoft Sentinel Responder + Microsoft Sentinel Automation Contributor | | X | | X | | | X |
-| MDR T3 - Threat Hunter | Microsoft Sentinel Contributor + Logic App Contributor | X | X | X | X | X | X | X |
+| MDR&nbsp;T1&nbsp;-&nbsp;Analyst     | Microsoft Sentinel Reader + Microsoft Sentinel Playbook Operator | | X | | | | | X |
+| MDR&nbsp;T2&nbsp;-&nbsp;Analyst     | Microsoft Sentinel Responder + Microsoft Sentinel Automation Contributor | | X | | X | | | X |
+| MDR&nbsp;T3&nbsp;-&nbsp;Threat&nbsp;Hunter | Microsoft Sentinel Contributor + Logic App Contributor | X | X | X | X | X | X | X |
 
 
 
