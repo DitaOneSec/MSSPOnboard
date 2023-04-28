@@ -19,7 +19,7 @@
   <td>MDR&nbsp;T1&nbsp;-&nbsp;Analyst</td>
   <td>Microsoft&nbsp;Sentinel&nbsp;Reader&nbsp;+&nbsp;Microsoft&nbsp;Sentinel&nbsp;Playbook&nbsp;Operator</td>
   <td></td>
-  <td style="text-align:center">X</td>
+  <td>      X</td>
   <td></td>
   <td></td>
   <td></td>
