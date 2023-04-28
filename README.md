@@ -16,7 +16,7 @@
 </thead>
 <tbody>
 <tr>
-  <td>MDR T1 - Analyst</td>
+  <td>MDR&nbsp;T1&nbsp;-&nbsp;Analyst</td>
   <td>Microsoft&nbsp;Sentinel&nbsp;Reader&nbsp;+&nbsp;Microsoft&nbsp;Sentinel&nbsp;Playbook&nbsp;Operator</td>
   <td></td>
   <td style="text-align:center">X</td>
@@ -27,7 +27,7 @@
   <td style="text-align:center">X</td>
 </tr>
 <tr>
-  <td>MDR T2 - Analyst</td>
+  <td>MDR&nbsp;T2&nbsp;-&nbsp;Analyst</td>
   <td>Microsoft&nbsp;Sentinel&nbsp;Responder&nbsp;+&nbsp;Microsoft&nbsp;Sentinel&nbsp;Automation&nbsp;Contributor</td>
   <td></td>
   <td style="text-align:center">X</td>
@@ -38,7 +38,7 @@
   <td style="text-align:center">X</td>
 </tr>
 <tr>
-  <td>MDR T3 - Threat Hunter</td>
+  <td>MDR&nbsp;T3&nbsp;-&nbsp;Threat&nbsp;Hunter</td>
   <td>Microsoft&nbsp;Sentinel&nbsp;Contributor&nbsp;+&nbsp;Logic&nbsp;App&nbsp;Contributor</td>
   <td style="text-align:center">X</td>
   <td style="text-align:center">X</td>
