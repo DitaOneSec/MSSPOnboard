@@ -41,6 +41,11 @@
                     "principalIdDisplayName": "MDR T3 - Threat Hunter",
 					"roleDefinitionId": "91c1777a-f3dc-4fae-b103-61d183457e46"
                 },
+				{ 
+					"principalId": "c8aaeaf1-3b70-468e-8b5f-cb2c65dd21d5", 
+                    "principalIdDisplayName": "MDR T3 - Threat Hunter",
+					"roleDefinitionId": "92aaf0da-9dab-42b6-94a3-d43ce8d16293"
+                },
                 {
 					"principalId": "7332524f-dd1a-4d6f-8eb3-c53366b1c922",
                     "principalIdDisplayName": "MDR T2 - Analyst",
@@ -51,6 +56,11 @@
                     "principalIdDisplayName": "MDR T2 - Analyst",
                     "roleDefinitionId": "f4c81013-99ee-4d62-a7ee-b3f1f648599a"
                 },
+				{
+					"principalId": "7332524f-dd1a-4d6f-8eb3-c53366b1c922",
+                    "principalIdDisplayName": "MDR T2 - Analyst",
+                    "roleDefinitionId": "92aaf0da-9dab-42b6-94a3-d43ce8d16293"
+                },
                 {
 					"principalId": "63dfff67-f519-44ca-a579-ab943a001524",
                     "principalIdDisplayName": "MDR T1 - Analyst",
@@ -60,7 +70,12 @@
 					"principalId": "63dfff67-f519-44ca-a579-ab943a001524",
                     "principalIdDisplayName": "MDR T1 - Analyst",
                     "roleDefinitionId": "51d6186e-6489-4900-b93f-92e23144cca5"
-                }   
+                },
+{
+					"principalId": "63dfff67-f519-44ca-a579-ab943a001524",
+                    "principalIdDisplayName": "MDR T1 - Analyst",
+                    "roleDefinitionId": "92aaf0da-9dab-42b6-94a3-d43ce8d16293"
+                }				
             ],
             "metadata": {
                 "description": "Specify an array of objects, containing tuples of Azure Active Directory principalId, a Azure roleDefinitionId, and an optional principalIdDisplayName. The roleDefinition specified is granted to the principalId in the provider's Active Directory and the principalIdDisplayName is visible to customers."
